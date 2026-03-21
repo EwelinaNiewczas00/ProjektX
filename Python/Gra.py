@@ -82,10 +82,14 @@ while True:
         if moj_wybor == "B":
             print("oo proszę, nie wiedziałam, ze jestes taki łasy na pieniadze! \nW skrzynce B jest milion. Oszukales mnie")
             time.sleep(2)
+           
             break
         elif moj_wybor =="OBIE":
             print("wiedzialam, ze jestes łasy na pieniadze, \nB zostawiłam pusta, nie wygrywasz miliona")
             time.sleep(1)
+            
+            
+        
             break
 
         else:

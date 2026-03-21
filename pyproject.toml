@@ -1,0 +1,11 @@
+[project]
+name = "projektx"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "black>=26.3.1",
+    "ipykernel>=7.2.0",
+    "pyright>=1.1.408",
+]
