@@ -1,2 +1,25 @@
+# --- PYTHON ---
+# Folder środowiska wirtualnego (to ten ciężki folder z bibliotekami)
 .venv/
+venv/
+env/
+
+# Pliki tymczasowe Pythona (śmieci generowane przy uruchamianiu kodu)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- SYSTEMOWE (Mac) ---
+# Ukryte pliki macOS, które zaśmiecają każde repozytorium
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- JUPYTER NOTEBOOKS ---
+# Pliki tymczasowe Twoich tutoriali .ipynb
+.ipynb_checkpoints/
+
+# --- VS CODE / IDE ---
+.vscode/
+.idea/.venv/
 __pycache__/
