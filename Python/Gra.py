@@ -1,3 +1,5 @@
+#Gra jest mojego pomysłu zastrzegam Sobie jej prawa autorskie
+
 import time
 import sys
 import random
