@@ -9,3 +9,8 @@ dependencies = [
     "ipykernel>=7.2.0",
     "pyright>=1.1.408",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
