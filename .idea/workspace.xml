@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25663dd0-368a-4fb3-ba61-85e23b83ce1d" name="Changes" comment="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added some information about axis" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../python-projects" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EwelinaNiewczas00"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EwelinaNiewczas00/ProjektX.git",
+    "accountId": "3ad00721-4e0c-4a66-85a7-0dbae2e3712e"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3BwbCLsDrzuVjPwGXEfpiVKtDFA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25663dd0-368a-4fb3-ba61-85e23b83ce1d" name="Changes" comment="" />
+      <created>1775402950369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775402950369</updated>
+      <workItem from="1775402951545" duration="8243000" />
+    </task>
+    <task id="LOCAL-00001" summary="Learning NumPy, adding some files">
+      <option name="closed" value="true" />
+      <created>1775416563854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775416563854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Small changes">
+      <option name="closed" value="true" />
+      <created>1775416600835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775416600835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added excercise 3 &quot;Dear Data&quot; - my energy">
+      <option name="closed" value="true" />
+      <created>1775418893274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775418893274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! 💌&#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! 🔢&#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10;🍵 Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10;💤 Liczba godzin snu.&#10;&#10;💧 Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10;🥱 Liczba ziewnięć.&#10;&#10;👀 Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added some information about axis">
+      <option name="closed" value="true" />
+      <created>1775419863368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775419863368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning NumPy, adding some files" />
+    <MESSAGE value="Small changes" />
+    <MESSAGE value="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added excercise 3 &quot;Dear Data&quot; - my energy" />
+    <MESSAGE value="&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added excercise 3 &quot;Dear Data&quot; - my energy" />
+    <MESSAGE value="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added some information about axis" />
+    <option name="LAST_COMMIT_MESSAGE" value="#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (array).&#10;#%% md&#10;Excersise 3.&#10;„Dear Data” to książka pełna pocztówek przesyłanych sobie nawzajem przez dwie projektantki. Zawierały one dane z ich codziennego życia, rejestrowane tydzień po tygodniu. Był to fascynujący eksperyment łączący naukę o danych (Data Science) ze sztuką. Pokazał on, że w Twojej codzienności kryje się mnóstwo interesujących informacji! &#10;&#10;W tym ostatnim ćwiczeniu zamierzasz uchwycić trochę danych ze swojego dnia codziennego... używając tablic NumPy! &#10;&#10;Pomyśl o czymś, co robisz w ciągu dnia lub tygodnia, co można zapisać za pomocą liczb. Oto kilka inspiracji:&#10;&#10; Rejestrowanie swojego nastroju (w skali od 1 do 10) w każdej godzinie aktywności w ciągu dnia.&#10;&#10; Liczba godzin snu.&#10;&#10; Liczba szklanek wody wypijanych każdego dnia w tym tygodniu.&#10;&#10; Liczba ziewnięć.&#10;&#10; Ile razy [zrobiłeś coś] w ciągu [jakiegoś czasu].&#10;&#10;Użyj notatek w telefonie lub zeszytu, aby zapisać te dane, a następnie umieść je w tablicy (Added some information about axis" />
+  </component>
+</project>
